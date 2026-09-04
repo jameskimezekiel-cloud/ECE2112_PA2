@@ -4,7 +4,7 @@
 ### EXPERIMENT 2: NUMERICAL PYTHON (NUMPY)
 **Submitted By:** James, Kim Ezekiel G. | 2ECE-A | 09/04/2026
 
-The content of this repository contains the Programming Assignment 1 for our course "Advance Computer Programming" this S.Y. 2025-2026. This project covers three python problems pertaining to Module 1 - Base Computing with Python.
+This notebook (`ADPROG_PA2.ipynb`) contains three NumPy exercises covering array creation, normalization, boolean filtering, and reshaping. Each problem prints the required checks to the console and saves its result as a `.npy` file.
 
 ## Objectives
 ---
@@ -13,16 +13,6 @@ The content of this repository contains the Programming Assignment 1 for our cou
 2. perform vectorized numerical operations on an ndarray;
 3. compute array statistics and use Boolean conditions to select elements; and
 4. save computed NumPy arrays as .npy files.
-
-# EXPERIMENT 2: Numerical Python (NumPy)
-
-**Submitted by:** James, Kim Ezekiel G.
-**Section:** 2ECE-A
-**Date:** 09/04/2026
-
-## Overview
-
-This notebook (`ADPROG_PA2.ipynb`) contains three NumPy exercises covering array creation, normalization, boolean filtering, and reshaping. Each problem prints the required checks to the console and saves its result as a `.npy` file.
 
 ---
 
