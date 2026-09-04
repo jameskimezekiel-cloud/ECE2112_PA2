@@ -7,7 +7,7 @@
 This notebook (`ADPROG_PA2.ipynb`) contains three NumPy exercises covering array creation, normalization, boolean filtering, and reshaping. Each problem prints the required checks to the console and saves its result as a `.npy` file.
 
 ## Objectives
----
+
 ##### At the end of this laboratory activity, the student should be able to:
 1. create and reshape NumPy arrays using appropriate NumPy functions;
 2. perform vectorized numerical operations on an ndarray;
