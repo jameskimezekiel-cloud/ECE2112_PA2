@@ -125,7 +125,7 @@ np.save("above_mean.npy", above_mean)
 ```
 ---
 
-To view the program for PA2: download [ECE2112_PA1](https://github.com/jameskimezekiel-cloud/ECE2112_PA2/new/main?filename=README.md), open on Jupyter Notebook, and run all cells.
+To view the program for PA2: download [ECE2112_PA2](https://github.com/jameskimezekiel-cloud/ECE2112_PA2/new/main?filename=README.md), open on Jupyter Notebook, and run all cells.
 
 ## README file Version History
 - September 3, 2026 - Initial README Content 
