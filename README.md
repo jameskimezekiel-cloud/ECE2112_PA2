@@ -123,20 +123,6 @@ print("\nNumber of selected elements:", above_mean.size)
 
 np.save("above_mean.npy", above_mean)
 ```
-
----
-
-## Requirements
-
-- Python 3
-- NumPy (`pip install numpy`)
-
-## How to Run
-
-1. Open `ADPROG_PA2.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
-2. Run all cells in order (Parts A → B → C).
-3. Generated `.npy` files (`X_normalized.npy`, `div_by_4.npy`, `above_mean.npy`) will be saved in the working directory.
-
 ---
 
 To view the program for PA2: download [ECE2112_PA1](https://github.com/jameskimezekiel-cloud/ECE2112_PA2/new/main?filename=README.md), open on Jupyter Notebook, and run all cells.
