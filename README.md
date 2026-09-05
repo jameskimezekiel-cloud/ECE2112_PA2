@@ -2,7 +2,7 @@
 ---
 
 ### EXPERIMENT 2: NUMERICAL PYTHON (NUMPY)
-**Submitted By:** James, Kim Ezekiel G. | 2ECE-A | 09/04/2026
+**Submitted By:** James, Kim Ezekiel G. | 2ECE-A | 09/05/2026
 
 This notebook (`ADPROG_PA2.ipynb`) contains three NumPy exercises covering array creation, normalization, boolean filtering, and reshaping. Each problem prints the required checks to the console and saves its result as a `.npy` file.
 
