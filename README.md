@@ -130,3 +130,4 @@ To view the program for PA2: download [ECE2112_PA2](https://github.com/jameskime
 ## README file Version History
 - September 3, 2026 - Initial README Content 
 - September 4, 2026 - Included PA2 Program to the README file
+- September 5, 2026 - Uploaded the 3.npy files
